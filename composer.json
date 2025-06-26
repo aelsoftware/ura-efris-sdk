@@ -1,5 +1,5 @@
 {
-    "name": "paybilldev/ura-efris-sdk",
+    "name": "aelsoftware/ura-efris-sdk",
     "description": "A PHP SDK for integrating with the Uganda Revenue Authority (URA) Electronic Fiscal Receipting and Invoicing System (efris) API",
     "type": "library",
     "license": "MIT",
